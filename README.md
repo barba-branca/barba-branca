@@ -16,6 +16,7 @@ Desenvolvedor Python com foco em Inteligência Artificial, Processamento de Ling
 - **DevOps:** Docker, GitHub Actions
 - **APIs:** REST, Webhooks
 - **Extras:** Testes, arquitetura de sistemas, UX/UI para bots, integração SaaS
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)
