@@ -1,5 +1,4 @@
 <!-- Banner topo -->
-![Banner]([https://i.imgur.com/6RK0VXp.png](https://chatgpt.com/s/m_68796cc090e48191821fd9951e0355bd))
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/barba-branca/barba-branca/main/Tecnologia%20e%20Inova%C3%A7%C3%A3o_%20Kau%C3%AA%20Neves.png" alt="Banner: Kauê Martins Moraes Neves" width="100%"/>
