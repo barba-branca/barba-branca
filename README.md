@@ -16,7 +16,7 @@ Desenvolvedor Python com foco em Inteligência Artificial, Processamento de Ling
 - **DevOps:** Docker, GitHub Actions
 - **APIs:** REST, Webhooks
 - **Extras:** Testes, arquitetura de sistemas, UX/UI para bots, integração SaaS
-  ### <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="28"/> Principais Tecnologias
+  ### 🧰 Principais Tecnologias
 
 <!-- Ícones em linha -->
 <p align="left">
