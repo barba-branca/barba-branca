@@ -1,7 +1,7 @@
 <!-- Banner topo -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/barba-branca/barba-branca/main/banner.png" alt="Banner: Kauê Martins Moraes Neves" width="100%"/>
+  <img src="[https://raw.githubusercontent.com/barba-branca/barba-branca/main/banner.png](https://github.com/barba-branca/barba-branca/blob/main/Banner%20Profissional%20de%20Kau%C3%AA%20Neves.png)" alt="Banner: Kauê Martins Moraes Neves" width="100%"/>
 </p>
 
 
