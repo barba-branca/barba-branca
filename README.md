@@ -17,11 +17,7 @@ Desenvolvedor Python com foco em Inteligência Artificial, Processamento de Ling
 - **APIs:** REST, Webhooks
 - **Extras:** Testes, arquitetura de sistemas, UX/UI para bots, integração SaaS
   
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![IA](https://img.shields.io/badge/IA-ff4081?style=for-the-badge&logo=opsgenie&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barba-branca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Projetos em destaque
