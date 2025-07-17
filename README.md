@@ -86,15 +86,14 @@ Desenvolvedor Python apaixonado por Inteligência Artificial, Processamento de L
 </p>
 
 ---
+## 🧩 Soft Skills
 
-## 🎓 Certificações & Soft Skills
+![Comunicação](https://img.shields.io/badge/Comunicação-efefef?style=for-the-badge&logoColor=black)
+![Inovação](https://img.shields.io/badge/Inovação-ea4ccc?style=for-the-badge&logoColor=white)
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho_em_Equipe-0072C6?style=for-the-badge&logo=teams&logoColor=white)
+![Curiosidade](https://img.shields.io/badge/Curiosidade-008080?style=for-the-badge&logo=starship&logoColor=white)
+![English: Improving](https://img.shields.io/badge/English-Improving-blue?style=for-the-badge&logo=english&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Comunicação-efefef?style=for-the-badge&logoColor=black" alt="Comunicação"/>
-  <img src="https://img.shields.io/badge/Inovação-ea4ccc?style=for-the-badge&logoColor=white" alt="Inovação"/>
-  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-0072C6?style=for-the-badge&logo=teams&logoColor=white" alt="Equipe"/>
-  <img src="https://img.shields.io/badge/Curiosidade-008080?style=for-the-badge&logo=starship&logoColor=white" alt="Curiosidade"/>
-</p>
 
 ---
 
