@@ -1,67 +1,111 @@
-# 👋 Kauê Martins Moraes Neves
+<!-- Banner topo -->
+![Banner](https://i.imgur.com/6RK0VXp.png)
 
-[![LinkedIn](https://img.shields.io/badge/-kaueneves-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kaueneves)](https://linkedin.com/in/kaueneves)
-[![GitHub](https://img.shields.io/badge/-barba--branca-black?style=flat&logo=github&logoColor=white&link=https://github.com/barba-branca)](https://github.com/barba-branca)
-
-## 📝 Sobre mim
-
-Desenvolvedor Python com foco em Inteligência Artificial, Processamento de Linguagem Natural (PLN) e automação backend. Movido por propósito e inovação, busco criar soluções que conectam tecnologia e impacto real, sempre com base técnica sólida, visão estratégica e compromisso com qualidade.
-
-## 🛠️ Stacks principais
-
-- **Linguagens:** Python, SQL
-- **Frameworks:** Django, Flask, FastAPI
-- **Bancos de Dados:** SQLite, PostgreSQL
-- **IA & PLN:** Gemini, LLM, Transformers, spaCy, NLTK
-- **DevOps:** Docker, GitHub Actions
-- **APIs:** REST, Webhooks
-- **Extras:** Testes, arquitetura de sistemas, UX/UI para bots, integração SaaS
-  ### 🧰 Principais Tecnologias
-
-<!-- Ícones em linha -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<p align="center">
+  <img src="https://i.imgur.com/6RK0VXp.png" alt="Banner: Kauê Martins Moraes Neves | Python • IA • PLN" width="100%" />
 </p>
 
-<!-- Badges em linha -->
-<p align="left">
+# 👋 Kauê Martins Moraes Neves
+
+<p align="center">
+  <b>Python Developer • IA & PLN Enthusiast • Backend & Automation</b>
+  <br/>
+  <i>“Transformando ideias em produtos de impacto real, sempre com visão técnica e propósito.”</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kaueneves">
+    <img src="https://img.shields.io/badge/LinkedIn-kaueneves-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/barba-branca">
+    <img src="https://img.shields.io/badge/GitHub-barba--branca-black?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Goiânia-Goiás-green?style=for-the-badge&logo=googlemaps" />
+</p>
+
+---
+
+## 🎯 Sobre mim
+
+Desenvolvedor Python apaixonado por Inteligência Artificial, Processamento de Linguagem Natural e backend escalável. Curioso, inquieto e movido por propósito, sempre busco criar soluções que conectam tecnologia, pessoas e impacto real. Experiência sólida em times multidisciplinares, com visão estratégica e foco em resultados.
+
+---
+
+## 🏆 Principais Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="48" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   <img src="https://img.shields.io/badge/FLASK-000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
   <img src="https://img.shields.io/badge/IA-ff4081?style=for-the-badge&logo=opsgenie&logoColor=white" alt="IA Badge"/>
+  <img src="https://img.shields.io/badge/PLN-blueviolet?style=for-the-badge&logo=OpenAI&logoColor=white" alt="PLN Badge"/>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barba-branca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 🚀 Projetos em destaque
-
-- [**Cardápio Cliente**](https://github.com/barba-branca/cardapio_cliente) — Chatbot de autoatendimento inteligente para WhatsApp, integrado com IA e menu dinâmico.
-- [**Git do Básico ao Avançado**](https://github.com/barba-branca/git-do-basico-ao-avancado) — Guia prático e didático sobre Git e versionamento, com exemplos do mercado.
-- [**Kamila**](https://github.com/barba-branca/kamila) — Assistente virtual personalizada, offline/online, com automação de tarefas, acessibilidade e comandos por voz.
-
-## 💎 Diferencial
-
-- **Inquietude produtiva:** Não paro até encontrar a solução mais robusta — minha curiosidade e ceticismo técnico garantem código limpo, seguro e escalável.
-- **Foco em impacto:** Vejo a tecnologia como ponte entre propósito e resultado — tudo o que desenvolvo precisa resolver problemas reais, acelerar negócios e gerar transformação.
-- **Visão estratégica:** Não sou apenas programador; penso produto, experiência, segurança e escalabilidade em cada entrega, sempre alinhado às melhores práticas de mercado.
-- **Inovação aplicada:** Busco estar à frente, testando novas arquiteturas, IA e automações, mas nunca sem base técnica sólida.
-- **Comunicação e colaboração:** Experiência trabalhando em equipe multidisciplinar, facilitando integração entre áreas e traduzindo problemas complexos em soluções práticas.
-
-## 📊 Estatísticas GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barba-branca&show_icons=true&theme=radical)
 
 ---
 
-**Tecnologia é a ferramenta para transformar pessoas, negócios e o mundo.**  
-Vamos construir juntos algo de impacto? Me chama no [LinkedIn](https://linkedin.com/in/kaueneves)!
+## 🚀 Projetos de Destaque
 
+| Projeto | Descrição | Stack Principal |
+|---------|-----------|----------------|
+| [**Kamila**](https://github.com/barba-branca/kamila) | Assistente virtual com IA (offline/online), automação, acessibilidade e comandos de voz. | Python, IA, PLN, Flask |
+| [**Cardápio Cliente**](https://github.com/barba-branca/cardapio_cliente) | Chatbot inteligente de autoatendimento para WhatsApp, integrado a IA e backend escalável. | Python, Flask, FastAPI, SQLite |
+| [**Git do Básico ao Avançado**](https://github.com/barba-branca/git-do-basico-ao-avancado) | Guia prático de versionamento, focado no mercado de trabalho real. | Git, Markdown, Didática |
+
+---
+
+## 💎 Diferenciais
+
+- **Inquietude produtiva:** Sempre em busca de soluções sólidas e inovadoras — código limpo, seguro e escalável.
+- **Foco em impacto:** Tecnologia a serviço de problemas reais e transformação de pessoas/negócios.
+- **Visão estratégica:** Penso produto, experiência, segurança e escalabilidade desde o início.
+- **Colaboração:** Forte experiência em equipes multidisciplinares, comunicação clara e proatividade.
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barba-branca&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barba-branca&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🎓 Certificações & Soft Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Comunicação-efefef?style=for-the-badge&logoColor=black" alt="Comunicação"/>
+  <img src="https://img.shields.io/badge/Inovação-ea4ccc?style=for-the-badge&logoColor=white" alt="Inovação"/>
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-0072C6?style=for-the-badge&logo=teams&logoColor=white" alt="Equipe"/>
+  <img src="https://img.shields.io/badge/Curiosidade-008080?style=for-the-badge&logo=starship&logoColor=white" alt="Curiosidade"/>
+</p>
+
+---
+
+## 💬 Sobre mim em uma frase
+
+> “Apaixonado por Python, IA e soluções que geram impacto real. Transformando ideias em produtos de verdade — tecnologia é para mudar vidas.”
+
+---
+
+## 📬 Contato
+
+**Quer trocar uma ideia sobre IA, Python, chatbots ou projetos de impacto?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaueneves-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaueneves)  
+Ou me mande uma issue/dm aqui no GitHub!
+
+---
+
+<!-- Feel free to adaptar e expandir este README conforme sua carreira evoluir! -->
