@@ -39,6 +39,8 @@ Desenvolvedor Python com foco em Inteligência Artificial, Processamento de Ling
   <img src="https://img.shields.io/badge/IA-ff4081?style=for-the-badge&logo=opsgenie&logoColor=white" alt="IA Badge"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barba-branca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🚀 Projetos em destaque
 
