@@ -67,17 +67,7 @@ Desenvolvedor Python apaixonado por Inteligência Artificial, Processamento de L
 | [**Cardápio Cliente**](https://github.com/barba-branca/cardapio_cliente) | Chatbot inteligente de autoatendimento para WhatsApp, integrado a IA e backend escalável. | Python, Flask, FastAPI, SQLite |
 | [**Git do Básico ao Avançado**](https://github.com/barba-branca/git-do-basico-ao-avancado) | Guia prático de versionamento, focado no mercado de trabalho real. | Git, Markdown, Didática |
 
----
 
-## 🖼️ Demonstração
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/barba-branca/barba-branca/main/demo-kamila.gif" alt="Demonstração da Kamila em ação" width="600"/>
-</p>
-
-> *Aqui pode ir um GIF ou print do seu bot em ação. Para criar um GIF, use o [ScreenToGif](https://www.screentogif.com/) (Windows) ou [Peek](https://github.com/phw/peek) (Linux). Se precisar de ajuda com isso, só pedir!*
-
----
 
 ## 💎 Diferenciais
 
