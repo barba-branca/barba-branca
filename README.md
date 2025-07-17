@@ -97,12 +97,24 @@ Desenvolvedor Python apaixonado por Inteligência Artificial, Processamento de L
 </p>
 
 ---
+## 🌎 Idiomas
+
+- Português (nativo)
+- Inglês (em evolução)
 
 ## 💬 Sobre mim em uma frase
 
 > “Tecnologia não é fim, é meio para transformar vidas. Busco sempre propósito em cada linha de código.”
 
 ---
+
+## 🌎 Idiomas
+
+- Português (nativo)
+- Inglês (em evolução)
+  
+![English: Improving](https://img.shields.io/badge/English-Improving-blue?style=for-the-badge&logo=english&logoColor=white)
+
 
 ## 📬 Contato
 
