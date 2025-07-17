@@ -1,11 +1,7 @@
 <!-- Banner topo -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/barba-branca/barba-branca/main/Banner%20Profissional%20de%20Kau%C3%AA%20Neves.png" alt="Banner: Kauê Martins Moraes Neves" width="100%"/>
 </p>
-
-
-
 
 # 👋 Kauê Martins Moraes Neves
 
@@ -24,6 +20,12 @@
   </a>
   <img src="https://img.shields.io/badge/Goiânia-Goiás-green?style=for-the-badge&logo=googlemaps" />
 </p>
+
+---
+
+## 📌 Objetivo Profissional
+
+Busco oportunidades como desenvolvedor Python e IA em times que valorizam inovação, propósito e crescimento contínuo. Meu foco é gerar impacto real e construir soluções que unam tecnologia de ponta com resultados práticos.
 
 ---
 
@@ -67,6 +69,16 @@ Desenvolvedor Python apaixonado por Inteligência Artificial, Processamento de L
 
 ---
 
+## 🖼️ Demonstração
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/barba-branca/barba-branca/main/demo-kamila.gif" alt="Demonstração da Kamila em ação" width="600"/>
+</p>
+
+> *Aqui pode ir um GIF ou print do seu bot em ação. Para criar um GIF, use o [ScreenToGif](https://www.screentogif.com/) (Windows) ou [Peek](https://github.com/phw/peek) (Linux). Se precisar de ajuda com isso, só pedir!*
+
+---
+
 ## 💎 Diferenciais
 
 - **Inquietude produtiva:** Sempre em busca de soluções sólidas e inovadoras — código limpo, seguro e escalável.
@@ -98,7 +110,7 @@ Desenvolvedor Python apaixonado por Inteligência Artificial, Processamento de L
 
 ## 💬 Sobre mim em uma frase
 
-> “Apaixonado por Python, IA e soluções que geram impacto real. Transformando ideias em produtos de verdade — tecnologia é para mudar vidas.”
+> “Tecnologia não é fim, é meio para transformar vidas. Busco sempre propósito em cada linha de código.”
 
 ---
 
@@ -110,4 +122,4 @@ Ou me mande uma issue/dm aqui no GitHub!
 
 ---
 
-<!-- Feel free to adaptar e expandir este README conforme sua carreira evoluir! -->
+<!-- Este README é vivo: sinta-se à vontade para adaptar e expandir conforme sua carreira evoluir! -->
