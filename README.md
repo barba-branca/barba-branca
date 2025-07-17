@@ -2,7 +2,7 @@
 ![Banner]([https://i.imgur.com/6RK0VXp.png](https://chatgpt.com/s/m_68796cc090e48191821fd9951e0355bd))
 
 <p align="center">
-  <img src="https://i.imgur.com/6RK0VXp.png" alt="Banner: Kauê Martins Moraes Neves | Python • IA • PLN" width="100%" />
+  <img src="https://raw.githubusercontent.com/barba-branca/barba-branca/main/banner.png" alt="Banner: Kauê Martins Moraes Neves" width="100%"/>
 </p>
 
 # 👋 Kauê Martins Moraes Neves
