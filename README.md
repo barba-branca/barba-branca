@@ -111,7 +111,7 @@ Desenvolvedor Python apaixonado por Inteligência Artificial, Processamento de L
 ## 📬 Contato
 
 **Quer trocar uma ideia sobre IA, Python, chatbots ou projetos de impacto?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaueneves-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaueneves)  
+
 Ou me mande uma issue/dm aqui no GitHub!
 
 ---
