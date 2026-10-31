@@ -12,9 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaueneves">
-    <img src="https://img.shields.io/badge/LinkedIn-kaueneves-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="https://github.com/barba-branca">
     <img src="https://img.shields.io/badge/GitHub-barba--branca-black?style=for-the-badge&logo=github" />
   </a>
